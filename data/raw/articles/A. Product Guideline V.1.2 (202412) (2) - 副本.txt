@@ -1,0 +1,360 @@
+PRODUCT GUIDELINE
+        Version 1.2
+   UPDATED ON: DEC 2024
+Personal Installment Loan – Normal (PIL)
+External product name (shown in Funki’s Website: 中小企貸款 , 卡數清)
+
+  1. Nationality       HK Permanent Resident with valid HKID card OR
+                       HK Resident with valid HKID card and passport (non-domestic helper)
+                       Non-permanent Resident with valid HKID, deviation can be approved by Director
+
+                       With no bankruptcy petition record
+
+  2. Age               Minimum 18 (on date of application)
+                       Maximum 65 (by the end of loan tenor)
+
+  3. Monthly Income    Minimum $10,000
+
+  4. Length of         Full time employment at the time of application
+      Employment            - Current employment / industry ≥ 3 months
+                                (For current employment ≤3 months, previous employment information (i.e.,
+                                company name, occupation, income level, years in employment) is required.
+                            - Self-employed with year of business establishment ≥ 2 years
+
+
+  5. Residential        Oversea address is not accepted.
+     Address            P.O box address can deviation by Credit Manager
+
+
+6. Credit Check       A. Internal checking (Internal Blacklist / Fraud Check / Sanction / Public Figure Lists)
+                     -  Applicant hits any of those negative files should be outright declined.
+                     -  For internal blacklist and Public Figure Lists, deviation approval is required from Credit
+                        Risk Manager or above.
+                     - Suspected fraud case should be declined.
+                              - Reject if our active restructure account, current delinquent DPD ≥030
+                      B. TU checking
+                     - TU checking is mandatory for all processing application.
+                     - It is mandatory for customer with TU grading YY to provide Bankruptcy Petition
+                        Dismissal/Withdrawal proof.
+                     - Report Validity: One Month. Credit Officer can exercise their judgment to trigger for new
+                        TU when necessary.
+                     - Reject if any active delinquent account in TU.
+                     - Reject if any write-off account but no BK in TU, can be deviation for property owner.
+                     - ≥3 yrs active 3600 with stable and good repayment can be deviation.
+
+                     Restructured loan (Nature of ‘3600’ tradeline)
+                     - IVA/IDRP
+                      Active <3yr                     Declined
+                      Active ≥ 3yrs (Good and         Deviation for approval by Credit Manager
+                      Stable repayment record in
+                      TU)
+
+                          C. Public Record
+                         - Declined if any public record without settlement proof.
+                         For tax’s public record can verbally confirmed and deviation approval by credit Manager or
+                         Assistant Manager
+
+
+7. Loan Tenor                 Minimum Tenor: 6 months
+                              Maximum Tenor Cap: 72 months for ≥$500,000-
+                                                 60 months for ≤$500,000-
+
+8. Maximum Loan              $1,000,000-
+    Amount
+9. Minimum Loan              $5,000
+    Amount
+10. Maximum Debt Service     A. Income <45,000 DSR: 80%
+    Ratio (DSR)              B. Income ≥45,000 DSR: 85%, have property: 90%
+
+11. Minimum                  $5,000
+    Disposable Income
+12. Documents Required       A.   HKID
+                             B.   Income Proof (Follow documents requirement in appendix II)
+                             C.   Residential Address Proof (Follow documents requirement in appendix II)
+                             D.   Primary Bank Account
+                                  - Latest complete 1 month and valid basic fixed income only, or
+                                  - Latest complete 3 months (Follow income recognition in appendix III) DDA Proof
+
+13. Identification Verification A. Identity
+/ Employment Verification           Identity verification is required for new customers. Optional for repeated or
+                                    refinancing customers.
+                                 B. Employment
+                                     1. Office phone / name badge / staff card / selfie with uniform / professional job
+                                           or license verified online / other employment proof are required.
+                                     2. If the application expect cannot process EV by phone or email, suggest loan
+                                           amt should be lower down and keep high interest >35%
+                                     3. If the application cannot process EV by phone or email during drawdown
+                                           period, suggest CA provide a new offer with lower amt and high interest
+                                           (included staff card – sent as photo, update income proof treat as selfie)
+  14. Credit vision score        AA-II, XX
+      (CMS)
+  15. Used Exposure             UE Hard Cap 30x
+                                 CMS          AA-DD           EE-GG         HH            II-YY            XX
+                                              24x             21x           16x           14x              1x
+
+                                 *UE≤ 24x to be deviation by Credit Manager or Assistant Manager or
+                                 above
+                                 * UE>24x to be deviation by Director / Credit Manager
+ 16. Enquiry Alert             EA ≥ 3 need pass to Credit Manager or Assistant Manager for Deviation
+
+
+                                CMS         AA-DD        EE-GG          HH             II-YY            XX
+                                            18x          16x            10x            8x               1x
+ 17. MICE (Maximum
+ Individual Unsecured Credit
+                                 *MICE≤ 18x to be deviation by Credit Manager or Assistant Manager or
+ Exposure)
+                                 above
+                                 * MICE> 18x to be deviation by Director
+
+ 18. PLS score
+                                PLS score         A1-A3             A4-A5             A6-A7             A8-A9
+                                Flat rate range   ≥0.85%-≤1.1%      >1.1%-≤1.35%      >1.35%-≤1.7%      >1.7%-≤1.98%
+                                Cap               48%               48%               48%               48%
+
+                                *Flat rate -0.2% to be deviation by Manager
+                                *Flat rate -0.5% to be deviation by Director
+                                *Flat rate ->0.5% to be deviation by two Director
+
+Personal Installment Loan – Credit Repair Loan
+  1. Nationality                HK Permanent Resident with valid HKID card OR
+                                HK Resident with valid HKID card and passport (non-domestic helper)
+
+  2. Age                        Minimum 18 (on date of application)
+                                Maximum 65 (by the end of loan tenor)
+
+  3. Monthly Income             Minimum $10,000-
+
+  4. Length of                  Follow Normal Loan
+     Employment
+  5. Residential                Follow Normal Loan
+     Address
+  6. Credit Check               Follow Normal Loan
+
+  7. Loan Tenor                 Minimum Tenor: 6 months
+                                Maximum Tenor Cap: 48 months
+  8. Maximum Loan               $300,000 (For Refinance: >300k can be deviation by Directors)
+      Amount
+  9. Minimum Loan               $5,000
+      Amount
+  10. Maximum Debt Service      A. Income <45,000 DSR: 80%
+      Ratio (DSR)               B. Income ≥45,000 DSR: 85%, have property: 90%
+
+  11. Minimum                   $5,000
+  Disposable Income
+
+  12. Documents Required        A.    HKID
+                                B.    Certificate of Bankruptcy Discharged
+                                C.    Income Proof (Follow documents requirement in appendix II)
+                                D.    Residential Address Proof (Follow documents requirement in appendix II)
+                                E.    Primary Bank Account
+                                      - Latest complete 1 month and valid basic fixed income only or
+                                      - Latest complete 3 months (Follow income recognition in appendix III) DDA Proof
+                                 F. Bankruptcy discharged proof
+ 13. Identification Verification/ Follow Normal Loan
+ Employment Verification
+ 14. CMS                          AA-II, XX, YY
+ 15. UE                                 CMS               AA-DD            EE-GG            HH-YY
+
+                                                       16x               14x               11x
+
+                               * UE ≤16x to be deviation by Credit Manager or Assistant Manager
+                               * UE >16x to be deviation by Director
+
+
+ 16. Enquiry Alert              Follow Normal Loan
+
+
+17. MICE (Maximum              Follow Normal Loan
+Individual Unsecured Credit
+Exposure)
+
+
+18. Other requirement         A. No accept if cu has any non tu a/c
+
+
+
+19. PLS score
+                               PLS score            A1-A3             A4-A5         A6-A7         A8-A9
+                               Flat rate range      ≥1.1%-≤1.3%       >1.3%-≤1.5%   >1.5%-≤1.8%   >1.8%-≤1.98%
+                               Cap                  48%               48%           48%           48%
+
+                               *Flat rate -0.1% to be deviation by Manager
+                               *Flat rate -0.3% to be deviation by Director
+                               *Flat rate ->0.3% to be deviation by two Director
+
+
+Personal Installment Loan – Property Owner Loan against Property
+ 1. Nationality                   HK Permanent Resident with valid HKID card OR
+                                  HK Resident with valid HKID card and passport
+
+ 2. Age                           Minimum 18 (on date of application)
+                                  Maximum 65 (by the end of loan tenor)
+
+ 3. Monthly Income                Minimum $10,000
+
+ 4. Length of Employment          Full time employment at the time of application
+                                       - Current employment / industry ≥ 3 months
+                                           (For current employment ≤3 months, previous employment information (i.e.,
+                                           company name, occupation, income level, years in employment) is required.
+                                  Self-employed with year of business establishment ≥ 2 years
+
+ 5. Residential Address           Follow Normal Loan
+
+ 6. Credit Check                 Follow Normal Loan
+ 7. Loan Tenor                   6-108 months for loan amount ≥ $600,000
+                                 6-72 months for loan amount < $600,000-
+ 8. Maximum Loan Amount           $2,000,000
+ 9. Minimum Loan Amount           $100,000
+ 10. Maximum Debt Service          A. Income <45,000 DSR: 80%
+ Ratio (DSR)                       B. Income ≥45,000 DSR: 85%, have property:90%
+ 11. Minimum Disposable            Follow Normal Loan
+  Income
+ 12. Document Required               Follow normal loan
+
+ 13.Identity Verification/           Follow Normal Loan
+ Employment Verification
+ 14. CMS                             Follow Normal Loan
+ 15. Used Exposure                   Follow Normal Loan
+ 16. Enquiry Alert                   Follow Normal Loan
+ 17. MICE                            Follow Normal Loan
+ 18. Current Market Value             -     At least 2 valuations by authorized property valuers
+ (CMV)                                -     Average the lower 2 valuations.
+                                            as CMV
+ 19. Nav                     -     - Normal Property (sole owner) <=90%
+                             -     - Normal Property (Joint Tenant Owner / Tenant in Common) <=70%
+                             -     - Property under Government Scheme (Sole Owner) <=70%
+                             -     - Deviation from Credit Manager / Director or above is required if exceed NAV
+ 20. Other Credit                - Registration of Loan Agreement on Land Registry is required if loan amount > $800,000 or
+ Requirement                     case by case
+                                 - For 1st Mortgage which related to Financial Institutions required deviation by Director
+                                 - For Village House, must provide Certificate of Compliance for loan approval
+21. PLS score   Follow Normal Loan
+
+
+Personal Installment Loan – Property Owner Loan against Property (Subprime Loan)
+ 1. Nationality                   HK Permanent Resident with valid HKID card OR
+                                  HK Resident with valid HKID card and passport
+
+ 2. Age                           Minimum 18 (on date of application)
+                                  Maximum 65 (by the end of loan tenor)
+
+ 3. Monthly Income                Minimum $10,000
+
+ 4. Length of Employment         Full time employment and Self Employment at the time of application
+ 5. Residential Address           Follow Normal Loan
+
+ 6. Credit Check                 Follow Normal Loan
+ 7. Loan Tenor                   6 months to 60 months
+ 8. Maximum Loan Amount           $300,000
+ 9. Minimum Loan Amount           $10,000
+ 10. Maximum Debt Service          A. Income <45,000 DSR: 80%
+ Ratio (DSR)                       B. Income ≥45,000 DSR: 85%, have property:90%
+                                   *** DSR can be deviation by Director or Credit Manager
+ 11. Minimum Disposable            Follow Normal Loan
+  Income
+ 12. Document Required              Follow normal loan
+
+ 13.Identity Verification/          Follow Normal Loan
+ Employment Verification
+ 14. CMS                            Follow Normal Loan
+ 15. Used Exposure                  Follow Normal Loan
+ 16. Enquiry Alert                  Follow Normal Loan
+ 17. MICE                           Follow Normal Loan
+ 18. Current Market Value             -     At least 2 valuations by authorized property valuers
+ (CMV)                                -     Average the lower 2 valuations.
+                                            as CMV
+ 19. Nav                     -     - Normal Property (sole owner) <=110%
+                             -     - Normal Property (Joint Tenant Owner / Tenant in Common) <=90%
+                             -     - Property under Government Scheme (Sole Owner) <=90%
+                             -     - Deviation from Assistant Manager/ Credit Manager / Director or above are required
+                                   if exceed NAV
+ 20. Other Credit                - No Registration of Loan Agreement on Land Registry is required
+ Requirement                     - For 1st Mortgage which related to Financial Institutions required deviation by Director.
+                                 - For Village House, must provide Certificate of Compliance for loan approval
+ 21. PLS score                     Follow Normal Loan
+
+
+
+Personal Installment Loan – Advantage Loan
+   Target Customer: High Quality customer (e.g Full time & non-contract Civil Servant, Register Nurse & Teacher) request
+   high loan amount.
+
+     1. Nationality                     HK Permanent Resident with valid HKID card OR
+                                        HK Resident with valid HKID card and passport (non-domestic helper)
+
+
+     2. Age                             Minimum 23 (on date of application)
+                                        Maximum 60 (at the end of loan tenor)
+
+     3. Monthly income                  Minimum $35,000
+     4. Max Loan Amount                 $1,500,000-
+     5. Loan Tenor                      Minimum Tenor: 6 months
+                                        Maximum Tenor: 72 months for >$600,000-.
+                                              60 months for ≤$600,000-.
+
+     6. Maximum Debt Services Ratio     Follow Normal Loan
+        (DSR)
+
+     7. Minimum APR                     16.00%
+     8. Minimum Disposable Income       $5,000-
+
+
+     9. Credit Check                    Follow Normal Loan
+     10. Used Exposure (UE)             Hard Cap <30x
+     11. MICE                           Hard Cap <21x
+     12. Document Required              Follow Normal Loan
+     13. Identification Verification    Follow Normal Loan
+       /Employment Verification
+
+
+
+
+     14. CMS                            AA-GG
+     15. Other Credit Requirements      A. Current employment >1 year
+                                        B. No approval for EA >2
+                                        C. No approval for non-TU account
+                                        D. For refinancing at least 3 installments are paid
+                                        E. No approval for DA, Write-off account, public record,
+                                        (Will consider as PIL only if any settlement provided)
+                                         F. No DPD shown in TU in latest 2 years (both active/ closed
+                                              account)
+                                         G. No deviation in Advantage loan
+                                         H. No ATP return in Bank Statement / Bank Record
+                                         I. No Net Back in Bank Statement / Bank Record
+
+Debt Service Ratio (DSR)
+Total DSR = [sum of monthly repayment for all debts (unsecured and secured monthly repayment amount)
++ monthly instalment amount of the new Funki’s loan + sum of monthly living expenses] / monthly income.
+
+Calculation of debts
+1. Credit card: (Total outstanding balance minus Loan-on-Card balance) x 4% plus Loan-on-Card
+     instalment amount
+2.   Revolving loan: 4% of outstanding balance
+3.   Instalment loan: Monthly instalment
+4.   Mortgage loan: Monthly instalment
+5.   Car loan: Monthly instalment
+*Any non-contributed trade lines declared by applicant OR observed from submitted documents
+(i.e. mortgage, commercial loan and other secured tradelines, short term loan for civil servant, credit union,
+student loan, no TU tradeline, etc.)
+
+Living expense
+Such as MPF or Provident Fund, Rental expense, Mortgage expense, Others (i.e., education fee, car loan, credit
+union, etc.)
+
+
+High Risk Industries Classification
+1. Construction / Property Development
+2. Retails – F&B/ Fast Food / Restaurant
+3. Property Management
+4. Insurance
+5. Logistic / Air Cargo
+
+High Risk Position Classification
+1.   Courier
+2.   Warehouse Keeper & Driver
+3.   Cleaner
+4.   Other Worker
+5.   Commission earner
+
+
